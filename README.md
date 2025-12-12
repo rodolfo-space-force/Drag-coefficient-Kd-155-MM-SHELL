@@ -13,11 +13,23 @@ Para isso, coeficientes de arrasto **Kᴅ** obtidos de medições na faixa trans
 
 **Kᴅ** é o coeficiente/termo de arrasto utilizado no modelo balístico do relatório, tratado como função do **número de Mach** na região transônica, onde o arrasto varia de forma intensa e não linear.
 
-  ![Texto alternativo da imagem](shell.png)
-
 ![Texto alternativo da imagem](tabela1.png)
 
+![Texto alternativo da imagem](shell.png)
+
+
+
 ---
+
+You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
+
+[Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
+
 
 ## Aviso de uso responsável
 
