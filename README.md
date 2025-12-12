@@ -13,7 +13,7 @@ Para isso, coeficientes de arrasto **Kᴅ** obtidos de medições na faixa trans
 
 **Kᴅ** é o coeficiente/termo de arrasto utilizado no modelo balístico do relatório, tratado como função do **número de Mach** na região transônica, onde o arrasto varia de forma intensa e não linear.
 
-
+  ![Texto alternativo da imagem](shell.png)
 ---
 
 ## Aviso de uso responsável
