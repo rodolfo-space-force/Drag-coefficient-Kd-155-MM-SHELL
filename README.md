@@ -17,7 +17,12 @@ Para isso, coeficientes de arrasto **Kᴅ** obtidos de medições na faixa trans
 
 ![Texto alternativo da imagem](shell.png)
 
+# Memorandum Report No. 1167 — A Drag Coefficient, Kᴅ (1958)
 
+**Source:** Ballistic Research Laboratories (BRL)  
+**Title:** *A Drag Coefficient, Kᴅ, Based on the 155 mm Shell, HE, M101*  
+**Author:** Charles T. Odom  
+**Date:** September 1958  
 
 ---
 
