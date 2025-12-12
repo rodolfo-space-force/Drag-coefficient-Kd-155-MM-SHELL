@@ -1,8 +1,6 @@
 # Drag-coefficient-Kd-155-MM-SHELL
 A Drag Coefficient (Kᴅ) Based on the 155 mm Shell, HE, M101
 
-# A Drag Coefficient (Kᴅ) Based on the 155 mm Shell, HE, M101 — README
-
 Este repositório organiza e descreve o conteúdo técnico de um relatório cujo foco é a **modelagem do coeficiente de arrasto (Kᴅ)** de um projétil **155 mm (HE, M101)** na **faixa transônica**, a partir de **medições experimentais** e **ajustes por polinômios**.
 
 O objetivo aqui é **documentar o problema de modelagem aerodinâmica** (arrasto vs. Mach) e o tratamento matemático dos dados, evitando qualquer conteúdo operacional.
