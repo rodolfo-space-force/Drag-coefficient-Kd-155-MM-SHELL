@@ -1,4 +1,7 @@
 # Drag-coefficient-Kd-155-MM-SHELL
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+
 A Drag Coefficient (Kᴅ) Based on the 155 mm Shell, HE, M101
 
 Este repositório cria um grafico Kd x Mach de um projétil **155 mm (HE, M101)** na **faixa transônica**, a partir de **medições experimentais** e **ajustes por polinômios**.
